@@ -5,5 +5,5 @@ Models, code, datasets, and documentation for some of the sub-challenges, esp. a
 
 ## Team SystemsCBLab members:
 1. Mounika Sri Lakskmi Mallepulla [UG student]
-2. Ida Priyadarshini T [Ph.D. Student]
+2. Ida Priyadarshini T [PhD Student]
 3. Ashok Palaniappan, Ph.D (PI)
