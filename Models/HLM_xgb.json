@@ -1,0 +1,13 @@
+{
+    "model_path": "final_model_eval_mae.joblib",
+    "metrics_path": "model_metrics_eval_mae.txt",
+    "best_params": {
+        "learning_rate": 0.1,
+        "max_depth": 7,
+        "n_estimators": 1000,
+        "subsample": 1.0
+    },
+    "descriptor_file": "descriptors.txt",
+    "descriptor_csv": "HLM_computed_descriptors_eval_mae.csv",
+    "prediction_file": "polaris_predictions_HLM_eval_mae.csv"
+}

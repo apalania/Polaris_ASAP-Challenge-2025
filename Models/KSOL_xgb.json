@@ -1,0 +1,13 @@
+{
+    "model_path": "KSOL_final_model_mae.joblib",
+    "metrics_path": "KSOL_model_metrics_mae.txt",
+    "best_params": {
+        "learning_rate": 0.1,
+        "max_depth": 11,
+        "n_estimators": 1000,
+        "subsample": 1.0
+    },
+    "descriptor_file": "descriptors.txt",
+    "descriptor_csv": "computed_descriptors_KSOL_mae.csv",
+    "prediction_file": "polaris_predictions_KSOL_mae.csv"
+}

@@ -1,0 +1,13 @@
+{
+    "model_path": "final_model_logd_mae.joblib",
+    "metrics_path": "model_metrics_logd_mae.txt",
+    "best_params": {
+        "learning_rate": 0.1,
+        "max_depth": 9,
+        "n_estimators": 700,
+        "subsample": 1.0
+    },
+    "descriptor_file": "descriptors.txt",
+    "descriptor_csv": "computed_descriptors_logd_mae.csv",
+    "prediction_file": "polaris_predictions_logd_mae.csv"
+}

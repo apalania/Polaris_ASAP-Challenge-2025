@@ -1,0 +1,13 @@
+{
+    "model_path": "final_model_MDR1-MDCK2_mae.joblib",
+    "metrics_path": "model_metrics_MDR1-MDCK2_mae.txt",
+    "best_params": {
+        "learning_rate": 0.1,
+        "max_depth": 7,
+        "n_estimators": 500,
+        "subsample": 0.8
+    },
+    "descriptor_file": "descriptors.txt",
+    "descriptor_csv": "computed_descriptors_MDR1-MDCK2_mae.csv",
+    "prediction_file": "polaris_predictions_MDR1-MDCK2_mae.csv"
+}

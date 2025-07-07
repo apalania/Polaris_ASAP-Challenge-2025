@@ -1,0 +1,13 @@
+{
+    "model_path": "final_model_MLM_mae.joblib",
+    "metrics_path": "model_metrics_MLM_mae.txt",
+    "best_params": {
+        "learning_rate": 0.01,
+        "max_depth": 7,
+        "n_estimators": 1000,
+        "subsample": 0.8
+    },
+    "descriptor_file": "descriptors.txt",
+    "descriptor_csv": "HLM_computed_descriptors_MLM_mae.csv",
+    "prediction_file": "polaris_predictions_HLM_MLM_mae.csv"
+}
