@@ -11,6 +11,7 @@ The base model was then fine-tuned using three different approaches:
 The predictions from all these models on the Polaris test data are compared and the best model is identified. 
 
 Partial Unfreezing: MAE 0.8286; $R^2$ 0.3128
+
 Gradual Unfreezing: MAE 0.8506; $R^2$ 0.2732
 
 
