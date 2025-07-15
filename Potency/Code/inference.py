@@ -21,8 +21,8 @@ INSTRUCTIONS FOR USE
 
 2. File Placement:
    - Place this script (inference.py) in the desired folder.
-   - Place the model files (one_shot_partial_unfreezing.pt,
-     gradual_partial_unfreezing.pt) and vocab.pkl file in the same folder.
+   - Place the model files (Finetuning_PartialUnfreeze.pt,
+     Finetuning_GradualUnfreeze.pt) and vocab.pkl file in the same folder.
    - Have the input data CSV file ready. It must have the columns
      'protein_sequence' and 'SMILES'.
 
@@ -244,8 +244,8 @@ def main():
         print("  2: Gradual Partial Unfreezing")
         model_choice = input("Enter your choice (1 or 2): ")
 
-    one_shot_name = 'one_shot_partial_unfreezing.pt'
-    gradual_name = 'gradual_partial_unfreezing.pt' 
+    one_shot_name = 'Finetuning_PartialUnfreeze.pt'
+    gradual_name = 'Finetuning_GradualUnfreeze.pt' 
 
     if model_choice == '1':
         model_filename = one_shot_name
