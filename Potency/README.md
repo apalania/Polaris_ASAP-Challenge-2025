@@ -8,7 +8,7 @@ The base model was then fine-tuned using three different approaches:
 
 - gradual unfreezing: The layers are unfrozen in a sequential manner, allowing the model to adjust to the change in the input distribution without dramatic changes to the network. Fine-tuning is performed with Polaris train data.
 
-The predictions from all these models on the Polaris test data are compared and the best model is identified. 
+The predictions from all these models are compared using a validation split and the best model is identified. The best model is used to predict with the Polaris unblinded test data and the following performance was obtained.  
 
 Partial Unfreezing: MAE 0.8286; $R^2$ 0.3128
 
