@@ -1,4 +1,5 @@
 # Polaris_Open ADMET_ASAP Discovery-Challenge-2025
+[![DOI](https://zenodo.org/badge/947881058.svg)](https://doi.org/10.5281/zenodo.17085624)
 Models, code, datasets, and documentation for some of the sub-challenges, esp. asap-admet-2025 and potency
 
 [Antiviral Drug Discovery 2025](https://polarishub.io/competitions/asap-discovery/antiviral-drug-discovery-2025) Challenge hosted on polarishub.io
